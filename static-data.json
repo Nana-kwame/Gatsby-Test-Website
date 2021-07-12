@@ -1,0 +1,36 @@
+{
+    "cells":[
+        {
+            "title":"Intro to react",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"Basic styling in CSS",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"Adaptive Layout",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"Interactions and Animations",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"SVG Animation",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"Intro to react",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"Components and Props",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        },
+        {
+            "title":"States and Events",
+            "image": "https://d301sr5gafysq2.cloudfront.net/c991a84b6162/img/blank-state/pull-requests.svg"
+        }
+    ]
+}
